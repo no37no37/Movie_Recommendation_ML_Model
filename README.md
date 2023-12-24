@@ -1,4 +1,4 @@
-# Movie Recommendation Machine Learning Model Documentation
+# Movie Recommendation Machine Learning Project
 
 ## Introduction
 The "Movie Recommendation Machine Learning Model" is designed to provide personalized movie recommendations based on user preferences. The model utilizes a dataset obtained from Netflix, containing information about movie titles, directors, cast, genres, and descriptions. By leveraging machine learning techniques, the model aims to enhance user experience by offering tailored suggestions.
